@@ -1,0 +1,28 @@
+.user_card {
+  padding: 10px;
+  border: 1px solid #cecece;
+  border-radius: 10px;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
+  max-width: max-content;
+}
+.user_card__avatar {
+  width: 250px;
+  height: 250px;
+  max-width: 100%;
+  object-fit: cover;
+  border-radius: 100%;
+  margin: 20px;
+}
+.user_card__info {
+  margin: 20px;
+  margin-left: 0;
+}
+.user_card__field_text {
+  font-weight: bold;
+}
+.role_god {
+  color: gold;
+}
