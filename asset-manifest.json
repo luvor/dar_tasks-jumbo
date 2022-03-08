@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dar_tasks-jumbo/static/css/main.819d59d4.css",
+    "main.js": "/dar_tasks-jumbo/static/js/main.cd760828.js",
+    "static/js/787.f58f2c25.chunk.js": "/dar_tasks-jumbo/static/js/787.f58f2c25.chunk.js",
+    "index.html": "/dar_tasks-jumbo/index.html",
+    "static/media/MdiShopping.svg": "/dar_tasks-jumbo/static/media/MdiShopping.ad8af5386cc115a18b06528ce5d483ff.svg",
+    "main.819d59d4.css.map": "/dar_tasks-jumbo/static/css/main.819d59d4.css.map",
+    "main.cd760828.js.map": "/dar_tasks-jumbo/static/js/main.cd760828.js.map",
+    "787.f58f2c25.chunk.js.map": "/dar_tasks-jumbo/static/js/787.f58f2c25.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.819d59d4.css",
+    "static/js/main.cd760828.js"
+  ]
+}
